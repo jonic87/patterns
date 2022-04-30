@@ -1,0 +1,16 @@
+{
+    "name": "jonic/patterns",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jonic\\Patterns\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgeni",
+            "email": "jonic87@gmail.com"
+        }
+    ],
+    "require": {}
+}
